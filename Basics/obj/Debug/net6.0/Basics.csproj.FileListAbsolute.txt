@@ -1,0 +1,15 @@
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\bin\Debug\net6.0\Basics.exe
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\bin\Debug\net6.0\Basics.deps.json
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\bin\Debug\net6.0\Basics.runtimeconfig.json
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\bin\Debug\net6.0\Basics.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\bin\Debug\net6.0\Basics.pdb
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.csproj.AssemblyReference.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfoInputs.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.AssemblyInfo.cs
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.csproj.CoreCompileInputs.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\refint\Basics.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.pdb
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\Basics.genruntimeconfig.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\Basics\Basics\obj\Debug\net6.0\ref\Basics.dll
